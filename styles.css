@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+  
+}
+#name{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 80px;
+    text-align: center;
+}
+Section{
+    margin-top: 40px;
+    
+}
+
+p{
+    margin-top: 2px;
+}
+.blue_letters{
+    color: #6264e9;
+}
+li {
+
+  list-style-position:inside ;
+}
